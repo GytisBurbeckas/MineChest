@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 826c0d5b747f4bc40bac8c29c2d5f7f7, type: 3}
+  m_Name: CollectablesDatabase
+  m_EditorClassIdentifier: 
+  collectables:
+  - image: {fileID: 21300000, guid: 3572a465c5393c940952bc40cef82d8f, type: 3}
+    id: 1
+    isCollected: 0
+  - image: {fileID: 21300000, guid: ed78ffcdf747d6f4eb95d1d53c21da83, type: 3}
+    id: 2
+    isCollected: 0
+  - image: {fileID: 21300000, guid: f616c5248b0f9cc4190a960e0abc3e3e, type: 3}
+    id: 3
+    isCollected: 0
+  - image: {fileID: 21300000, guid: 1dc2b1c54289fc8498a4d8467e58485f, type: 3}
+    id: 4
+    isCollected: 0
+  - image: {fileID: 21300000, guid: bc427af97d04b114d988af1837d001d5, type: 3}
+    id: 5
+    isCollected: 0
+  - image: {fileID: 21300000, guid: a3fd9af7a184e784a88405d562d17084, type: 3}
+    id: 6
+    isCollected: 1
+  - image: {fileID: 21300000, guid: 845032ed36e692342a57e9a8db9f0d04, type: 3}
+    id: 7
+    isCollected: 0
+  - image: {fileID: 21300000, guid: caefa0a6281ff8d4d84b80929c16e8bd, type: 3}
+    id: 8
+    isCollected: 0
+  - image: {fileID: 21300000, guid: be85acf0ceae4074f9c524a5db7a2ae9, type: 3}
+    id: 9
+    isCollected: 0

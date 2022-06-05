@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af0fc8e8308d10142aac8b5aab2c04e6, type: 3}
+  m_Name: ChestShopDatabase
+  m_EditorClassIdentifier: 
+  chests:
+  - image: {fileID: 21300000, guid: 1b0c23d885f5f1f4e97fa1f183f778d9, type: 3}
+    name: Map 1 Chest 1
+    price: 500
+  - image: {fileID: 21300000, guid: 8926d336df2f9844d8c9c56d693d2d94, type: 3}
+    name: Map 1 Chest 2
+    price: 1000
+  - image: {fileID: 21300000, guid: 0c20d357ebaaae648baa156a33ac0fe5, type: 3}
+    name: Map 2 Chest 1
+    price: 700
+  - image: {fileID: 21300000, guid: 42da957ad386d494d85f95f0f581a569, type: 3}
+    name: Map 2 Chest 2
+    price: 1400
+  - image: {fileID: 21300000, guid: 4c850969e9f721840b88af70a90af4d0, type: 3}
+    name: Map 3 Chest 1
+    price: 1000
+  - image: {fileID: 21300000, guid: 579c2571da6e9824d9980332d7466455, type: 3}
+    name: Map 3 Chest 2
+    price: 2000

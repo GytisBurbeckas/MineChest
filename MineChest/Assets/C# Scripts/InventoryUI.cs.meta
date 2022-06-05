@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 32ff2ea834bf11a4ab944176676ad20a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - InventoryMenu: {instanceID: 0}
+  - InventoryToolsContainer: {instanceID: 0}
+  - toolPrefab: {instanceID: 0}
+  - toolDB: {instanceID: 0}
+  - InventoryClothingContainer: {instanceID: 0}
+  - clothingPrefab: {instanceID: 0}
+  - clothingDB: {instanceID: 0}
+  - inventoryUI: {instanceID: 0}
+  - EquipedAnim: {instanceID: 0}
+  - InventoryButton: {instanceID: 0}
+  - player: {fileID: 5448770762757379892, guid: c9ac4cecccd540442ad9e9273681c017,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
